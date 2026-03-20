@@ -1,8 +1,7 @@
 
-https://visualrambling.space/dithering-part-1/
-
-Dithering – Part 1
-
+# Dithering - Part 1
+## URL: https://visualrambling.space/dithering-part-1/
+### Tarea 01 Catalina Marambio
 Explica cómo se aplica y produce el efecto “tramado” (the dithering effect): como la alternación de pixeles blancos y negros genera la ilusión de diferentes tonos de gris y permiten ilustrar imágenes con escalas de color y profundidad. En el caso representado, mediante un mapa de umbral se compara el brillo de cada píxel para definirlo como negro o blanco, produciendo patrones y simulando tonalidades mediante las distintas densidades de cada uno de estos dos colores.
 Existen algoritmos para producir mapas de umbral según cada imagen y otras fórmulas que no recurren a un mapa en lo absoluto, los cuales serían explicados en una siguiente parte.
 
